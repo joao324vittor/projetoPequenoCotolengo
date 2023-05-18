@@ -64,6 +64,52 @@ ul li a {
 }
 
 /** FORMULÁRIO */ 
+/* ! terminar */
+
+/* 
+fieldset{
+    width: 1000px;
+    flex-wrap: nowrap;
+}
+
+.principal{
+    display: flex;
+    justify-content: center;
+    background-color: #ff0000; 
+} 
+
+#container-form{
+    width: 80%;
+    height: 200vh;
+    margin: 10px;
+    padding: 5px 20px;
+    background-color: #EEE; 
+}
+
+.main-form label{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-bottom: 15px;
+}
+
+label textarea{
+    height: 80px;
+}
+
+#check{
+    display: inline-block;
+}
+
+#check label{
+    width: 300px;
+    margin: 0;
+}
+
+input[type="checkbox"]{
+    width: 10px;
+}
+*/
 
 .principal{
     font-family: var(--main-font);
@@ -102,6 +148,6 @@ input[type="checkbox"], label {
 
 button{
     margin-bottom: 5%;
-    padding: 5px;
+    padding: 10px;
 }
 
